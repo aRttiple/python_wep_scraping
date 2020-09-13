@@ -6,3 +6,4 @@ print(len(출석))
 print(출석)
 
 print(type(출석))
+
